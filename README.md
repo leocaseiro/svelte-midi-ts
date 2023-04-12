@@ -1,2 +1,1 @@
-# svelte-midi-ts
-Created with CodeSandbox
+# Svelte + TS + Vite
